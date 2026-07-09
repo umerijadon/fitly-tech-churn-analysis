@@ -208,4 +208,4 @@ This repository contains:
 # Author
 
 **Jadon Umeri**  
-Aspiring Data Analyst focused on customer analytics, business intelligence, churn reduction strategies, and data-driven decision-making.
+Data Analyst focused on customer analytics, business intelligence, churn reduction strategies, and data-driven decision-making.
